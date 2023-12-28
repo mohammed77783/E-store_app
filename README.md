@@ -72,6 +72,6 @@ ___
 
 
 ## Conclusion
-    I build his app when I was learn dealing with API in Flutter I hope was great and I try to do my best and I hope to learn more .
+    I build this app when I was learn dealing with API in Flutter I hope was great and I try to do my best and I hope to learn more .
     In last I hope this code helpful to author and if anyone have some advice for me you can send it through this email : mohammed715332@gmail.com.
     Thank you.
